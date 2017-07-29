@@ -24,3 +24,17 @@ Even opens a url.
 <br>
 <code>$ Chrome http://github.com
 </code>
+
+
+<h4><u>Fast Git Commands</h4></u>
+Speeding up the 'git push', 'git pull' and 'git status'
+<br>
+<code>$ Status
+</code>
+<br>
+<code>$ Pull
+</code>
+<br>
+<code>$ Push 
+</code>
+

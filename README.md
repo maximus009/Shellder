@@ -14,3 +14,13 @@ Performs a Google Search right from your terminal.
 <br>
 <code>$ GoogleSearch github maximus009
 </code>
+
+<h4><u>Chrome</h4></u>
+Open Google Chrome from the shell.
+Even opens a url.
+<br>
+<code>$ Chrome
+</code>
+<br>
+<code>$ Chrome http://github.com
+</code>

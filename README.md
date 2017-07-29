@@ -1,5 +1,5 @@
 # Shellder
-My Awesome Shell/Bash scripts
+My Awesome Shell/Bash scripts <img src='shellder_img.png' width=100px height=100px />
 <br>
 
 Just open a script of your choice and copy the main content onto your bash profile.<br>

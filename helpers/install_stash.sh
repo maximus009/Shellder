@@ -1,10 +1,8 @@
-#osName=`uname`
-#echo 'Operating System Identified as '$osName
-#if [[ $osName == 'Darwin' ]]; then
-#    echo 'Mac!!'
-#elif [[ $osName == 'Linux' ]]; then
-#    echo 'Nooo'
-#fi
+# Helper scripts to run before you start
+# using the scripts.
+
+# Trust me, it is worth it.
+
 installMacRequirements() {
     echo 'Checking if Homebrew exists on machine.'
     which -s brew

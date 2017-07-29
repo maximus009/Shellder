@@ -1,2 +1,16 @@
 # Shellder
 My Awesome Shell/Bash scripts
+<br>
+
+Just open a script of your choice and copy the main content onto your bash profile.<br>
+On Mac OS, it is typically called the ~/.bash\_profile.
+On Linux systems, it is the ~/.bashrc.
+
+<hr>
+<h2>Scripts</h2>
+
+<h4><u>GoogleSearch</h4></u>
+Performs a Google Search right from your terminal.
+<br>
+<code>$ GoogleSearch github maximus009
+</code>
